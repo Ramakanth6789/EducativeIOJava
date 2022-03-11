@@ -1,4 +1,4 @@
-package com.ram.algos.recursion;
+package com.ram.recursion;
 
 public class GCD {
     public static void main(String[] args) {

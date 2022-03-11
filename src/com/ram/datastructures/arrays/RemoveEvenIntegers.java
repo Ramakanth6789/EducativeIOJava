@@ -1,4 +1,4 @@
-package com.ram.algos.arrays;
+package com.ram.datastructures.arrays;
 
 public class RemoveEvenIntegers {
     /*
