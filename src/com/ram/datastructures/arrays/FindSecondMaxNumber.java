@@ -4,7 +4,6 @@ public class FindSecondMaxNumber {
     public static void main(String[] args) {
         int[] arr = {9, 2, 3, 6};
         System.out.println(findSecondMaximum(arr));
-
     }
 
     public static int findSecondMaximum(int[] arr) {

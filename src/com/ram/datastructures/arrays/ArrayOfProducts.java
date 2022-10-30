@@ -13,11 +13,11 @@ public class ArrayOfProducts {
 
     public static int[] findProduct(int[] arr) {
         int product = 1;
-        for(int num: arr){
-            product*=num;
+        for (int num : arr) {
+            product *= num;
         }
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = product/arr[i];
+            arr[i] = product / arr[i];
         }
 
         return arr;
